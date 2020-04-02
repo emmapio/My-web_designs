@@ -1,0 +1,82 @@
+form{
+    display: flex;
+    padding-left: 500px;
+    padding-top: 100px;
+  
+}
+.g{
+    color: royalblue;
+    font-size: 80px;
+    font-family:Arial Rounded MT Bold ;
+}
+.o1{
+    color: red;
+    font-size: 80px;
+    font-family:Arial Rounded MT Bold ;
+
+}
+
+.o2{
+    color: yellow;
+    font-size: 80px;
+    font-family:Arial Rounded MT Bold ;
+}
+.l{
+    color: green;
+    font-size: 80px;
+    font-family:Arial Rounded MT Bold ;
+}
+ol{
+    display: flex;
+    justify-content: space-between;
+    
+
+    
+}
+.search1{
+    position: absolute;
+    left: 450px;
+    top: 320px;
+}
+li{
+    list-style: none;
+    
+    
+}
+.list1{
+    padding-left: 700px;
+}
+.list3{
+   
+}
+.list2{
+    padding-left: 10px;
+}
+.urltxt{
+    padding-left: 350px;
+    padding-top: 30px;
+}
+.url{
+    text-align: justify;
+    border-radius: 20px;
+    width: 500px;
+    height: 45px;
+    border-color:bisque;
+}
+.icons{
+
+}
+
+.umulogo{
+    padding-top: 50px;
+    padding-left: 60px;
+}
+.youtube{
+    padding-left: 500px;
+    padding-top: 50px;
+    }
+.gmail{
+    padding-left: 60px;
+    padding-top: 50px;
+
+}

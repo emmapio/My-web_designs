@@ -1,0 +1,95 @@
+.maindiv{
+    display: flex;
+
+width: 100%;
+height: 100%;
+justify-content: space-between;
+
+
+}
+
+.leftdiv{
+    
+    flex-basis: 50%;
+    
+    background-color:dodgerblue;
+    width: 50%;
+    height: 500px;
+    padding: 100px;
+    
+
+}
+.rightdiv{
+    padding-left: 100px; 
+    flex-basis: 50%;
+    background-color:white;
+    width: 50%;
+    padding: 100px;
+}
+.fstlft{
+    text-align: center;
+    text-align: center;
+    padding-top: 150px;
+    
+}
+.scndlft{
+    text-indent: 10px;
+    text-align: center;
+    padding: 20px;
+
+
+}
+.thrdlft{
+    text-align: center;
+    text-align: center;
+    padding: 20px;
+    
+
+}
+.userid{
+    padding-left: 10px;
+}
+button{
+    border-radius: 30%;
+    color:dodgerblue;
+    border-color:dodgerblue;
+    height: 40px;
+}
+.passwordforget{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+.shape{
+    size: 200px;
+    text-align: justify;
+    
+
+
+}
+.text{
+    color: black;
+    text-align: justify;
+    padding: 1opx;
+
+}
+.join{
+    text-align: justify;
+    color: black;
+}
+.signupbtn{
+    background-color: dodgerblue;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    color: white;
+}
+.loginbtn{
+    border-color:dodgerblue ;
+    width: 200px;
+    height: 30px;
+    border-radius: 20px;
+    color: dodgerblue ;
+
+}

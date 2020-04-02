@@ -1,0 +1,104 @@
+.main{
+    display: flex;
+    width: 100%;
+    height: 95px;
+}
+.f1{
+    display: flex;
+    margin: 0px;
+}
+ol{
+    list-style-type: none;
+    color: black;
+}
+.list2{
+    list-style-type: none;
+    display: flex;
+    color: white;
+
+}
+.front{
+    font-size: 45px;
+    color: black;
+}
+.master{
+    font-size: 22px;
+    color:rgba(207, 13, 13, 0.877);
+    font-family: block;
+}
+.email{
+    
+}
+.n2{
+    padding-top: 0px;
+    color: darkblue;
+    
+    padding-left: 350px;
+  
+}
+.call{
+    padding-left: 45px;
+    color: darkblue;
+}
+.login{
+    padding-right: 0px;
+}
+.btn{padding-right: 5px;
+    background-color: orangered;
+    border-color: orangered;
+    height: 40px;
+    width: 90px;
+    border-radius: 25px;
+}
+.f3{
+    width: 90%;
+    display: flex;
+   
+    background-color: darkblue;
+    padding-top: 70px;
+    padding-left: 20px;
+}
+.textsearch{
+    background-color: darkblue;
+    border-color: darkblue;
+   
+    border-radius: 20px;
+    color: white;
+}
+.li1{
+    color: white;
+    
+}
+.li2{
+    padding-left: 30px;
+}
+.li3{ padding-left: 30px;
+
+}
+.li4{ padding-left: 30px;}
+.li5{ padding-left: 30px;}
+.li6{ padding-left: 30px;}
+.li7{
+    padding-left: 500px;
+}
+.f4{background-image: url(bgimg.png);
+    background-size: 100%;
+height: 600px;
+}
+.img{ width: 100%;
+    height: 700px;
+    
+}
+.h2{
+    color: darkblue;
+    padding-top: 0px;
+}
+h1{
+    color: darkblue;
+}
+.last{
+    color: red;
+    font-size: 40px;
+    padding-left: 200px;
+    padding-top: 150px;
+}

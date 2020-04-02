@@ -1,0 +1,121 @@
+.main{
+    background-color: maroon;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+ol{
+    display: flex;
+    list-style-type: none;
+}
+li{
+    padding-right: 5px;
+
+}
+
+.shape{
+    border-radius: 50%;
+    
+}
+button{
+    background-color: turquoise;
+}
+.linediv{
+    background-color: red;
+    width: 100%;
+    height: 20px;
+    border-radius: 5px;
+    
+}
+.main2{
+    text-align: center;
+    padding: 20px;
+    padding-top: 30px;
+    background-color:#453b3d;
+    height: 250px;
+    margin: opx;
+}
+.user1{
+    border-radius: 8px;
+    width: 500px;
+    height: 20px;
+    padding-top: 10px;
+    margin: 10px;
+    
+    
+}
+form{
+padding-left: 500px;
+background-color: sienna;
+color: white;
+background-image: url(pio2.jpg);
+}
+
+
+.password1{
+    border-radius: 8px;
+    width: 500px;
+    height: 20px;
+    padding-top: 10px;
+    margin: 10px;
+    
+    
+}
+.forget{
+    color: orangered;
+}
+.lognbtn{
+    width: 100px;
+    height:40px;
+    border-radius:20px;
+    background-color: red;
+    margin: 10px;
+}
+.main3{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+color: white;
+    display: flex;
+    justify-content: space-between;
+    
+   
+    
+}
+
+
+.list{
+    
+    padding-right: 600px;
+    margin: 40px;
+    display: flex;
+    list-style-type: none;
+}
+.cla{
+    padding-left: 20px;
+}
+.learn{
+    padding-left: 20px;
+}
+.price{
+    padding-left: 20px;
+}
+.front{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    background-color: black;
+    margin: 40px;
+}
+.log{
+    padding-left: 20px;
+}
+.join{
+    padding-left: 20px;
+}
+.master{
+    margin: 40px;
+    font-size: 40;
+    background-color: black;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
